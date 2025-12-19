@@ -31,7 +31,7 @@ body {
     gap: 40px;
 }
 
-/* Texto */
+
 .text-area {
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
